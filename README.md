@@ -81,3 +81,17 @@ En consola se pueden revisar los resultados e impresiones de los pasos que se ha
 - Si la estructura del sitio web cambia, puede ser necesario ajustar los **XPath** utilizados en las pruebas.
 - Este proyecto fue desarrollado con fines educativos.
 
+
+##Reto 2
+El reto 2 consta de 4 request realizados en **POSTMAN** y la collection exportada en formato JSON se encuentra en la carpeta POSTMAN-NASA para fácil acceso
+
+### Request elegidas
+
+- **EARTH**
+- **APOD**
+- **NEoWS**
+- **EPIC**
+
+Se realizaron diferentes test post ejecución (status code, verificación de un campo de respuesta, tiempo de respuesta).
+Además el manejo del api_key y url se hizo por varibles de ambiente globales en la collection.
+
