@@ -82,7 +82,7 @@ En consola se pueden revisar los resultados e impresiones de los pasos que se ha
 - Este proyecto fue desarrollado con fines educativos.
 
 
-##Reto 2
+## Reto 2
 El reto 2 consta de 4 request realizados en **POSTMAN** y la collection exportada en formato JSON se encuentra en la carpeta POSTMAN-NASA para fácil acceso
 
 ### Request elegidas
