@@ -8,7 +8,7 @@ Este proyecto implementa un flujo de pruebas donde se crea un usuario mediante l
 - Sara Herrera Ramírez
 - Julio Franco Ardila
 
-##Reto 1
+## Reto 1
 
 El reto fue realizado con un patrón de diseño **POM** para un mayor orden y facilidad en el manejo de las pruebas.
 ### Flujo de Prueba
